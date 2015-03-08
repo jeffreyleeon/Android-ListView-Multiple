@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Name">
+        <item> John </item>
+        <item> Paul </item>
+        <item> George </item>
+        <item> Ringo </item>
+        <item> Alice </item>
+    </string-array>
+
+    <string-array name="LastName">
+        <item> Chan </item>
+        <item> Lee </item>
+        <item> Cheung </item>
+        <item> Wong </item>
+        <item> Sin </item>
+    </string-array>
+
+
+</resources>
